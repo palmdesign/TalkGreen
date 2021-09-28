@@ -1,0 +1,326 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Divi Contact Form DB\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: sean.barton@tortoise-it.co.uk\n"
+"MIME-Version: 1.0\n"
+"Language: en_GB\n"
+"X-Generator: Poedit 2.1.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: includes\n"
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Actions"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Add New Divi DB"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "All Divi DB"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Click"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Click here to"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Clone History"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Cloned from contact form"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Content"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Copy"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Copy to another Post Type"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Copy to another post type"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Custom Field"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Date Cloned"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Date of Submission"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Debug/Server Info"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Edit Divi DB"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Edit Page"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Export"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Export Results"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Extra Information"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "First read by"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "For storing Divi contact form submissions."
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Form Submission"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "If \"Custom Field\" selected, enter field name"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Keep date of original submission?"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Label"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Licensing"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "New Divi DB"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "New Post Title"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "No contact form submissions found in Trash."
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "No contact form submissions found."
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Not a registered user"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Oops something went wrong. This error message may be helpful"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Other submissions made by the same person"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Parent Divi DB:"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Post Type"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Reply via Email"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Reveal Debug/Server Information"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Search Divi DB"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Select Field Mappings"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Select Post Type"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Settings"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Successfully copied the content of this contact form submission to another post type."
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Title"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Unknown"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Unused"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Value"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "Version"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "View"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "View Divi DB"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "View Page"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "View User Profiile"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "You have"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "You need to choose at least one field to map against for the clone to work."
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "at"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "here"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "more submissions by this user"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "or"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "to mark all as read"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "to visit them or click"
+msgstr ""
+
+#. Text in function
+#: sb_divi_contact_form_db.php:1
+msgid "unread contact form submissions."
+msgstr ""

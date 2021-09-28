@@ -1,0 +1,82 @@
+ Changelog
+
+V1.9.1
+- Fixed warning at frontend
+
+V1.9 - 05/01/21
+- Fixed issue with form pages that contain quotes as export was failing
+
+V1.8 - 29/10/20
+- Added loop to handle multiple forms on the same page
+
+V1.7 - 12/02/19
+- Removed debug section from the output due to it potentially saving server information to the database in some environments
+
+V1.6 - 17/09/18
+- Added localization directory and converted ALL english wording to be getText compatible
+
+V1.5 - 12/02/18
+- Fixed export dropdown for those sites that have more than 3/5 forms to track.
+
+V1.4 - 08/02/18
+- Added a 'hide admin nag' option on the new settings page. This removes the red bar at the top if you don't want it.
+
+V1.3 - 05/12/17
+- Fixed export function. It was previously exporting only 5 rows. This removes that limit
+
+V1.2 - 03/11/17
+- Added export functionality (finally)
+- Added licensing and auto update
+
+V1.1 - 10/8/17
+- Removed some CSS causing the pagination to not function
+
+< V1.0
+- Initial Version
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

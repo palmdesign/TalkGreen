@@ -1,4 +1,5 @@
 <?php
+define('WP_CACHE', true); // WP-Optimize Cache
 /**
  * A configuração de base do WordPress
  *
@@ -18,26 +19,19 @@
  *
  * @package WordPress
  */
-
 // ** Definições de MySQL - obtenha estes dados do seu serviço de alojamento** //
 /** O nome da base de dados do WordPress */
 define( 'DB_NAME', 'talkgreendb' );
-
 /** O nome do utilizador de MySQL */
 define( 'DB_USER', 'root' );
-
 /** A password do utilizador de MySQL  */
 define( 'DB_PASSWORD', '' );
-
 /** O nome do serviddor de  MySQL  */
 define( 'DB_HOST', 'localhost' );
-
 /** O "Database Charset" a usar na criação das tabelas. */
 define( 'DB_CHARSET', 'utf8mb4' );
-
 /** O "Database Collate type". Se tem dúvidas não mude. */
 define( 'DB_COLLATE', '' );
-
 /**#@+
  * Chaves únicas de autenticação.
  *
@@ -55,9 +49,7 @@ define( 'AUTH_SALT', 'MXp>=25T.^ ^2U.[YM6-Y;Wd0CAdMv4:p[5jtzQZjsI1&p7d[*N(9GK,h,
 define( 'SECURE_AUTH_SALT', '9!@vwW2|52/Mdw(0aX3Fo$pc5J<d9b0bF3_7Dy/S%c/{ii!r$o!QErxjg$%5%bQ+' );
 define( 'LOGGED_IN_SALT', '^VL]g$s}_AsqL&u^$sX4l4FWq|HK<tUT*D}Ie]UCC>W3Z;!gF1tyY866L_t`wG_L' );
 define( 'NONCE_SALT', 'RYxG+0(^yQ9%F+r{p6LL}UGZY=lUKI|W$C0,>YR!Be7P=h!.woh)81SSMQ23G=zc' );
-
 /**#@-*/
-
 /**
  * Prefixo das tabelas de WordPress.
  *
@@ -65,7 +57,6 @@ define( 'NONCE_SALT', 'RYxG+0(^yQ9%F+r{p6LL}UGZY=lUKI|W$C0,>YR!Be7P=h!.woh)81SSM
  * instalação um prefixo único. Só algarismos, letras e underscores, por favor!
  */
 $table_prefix = 'wp_tg';
-
 /**
  * Para developers: WordPress em modo debugging.
  *
@@ -79,13 +70,10 @@ $table_prefix = 'wp_tg';
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
 define( 'WP_DEBUG', false );
-
 /* E é tudo. Pare de editar! */
-
 /** Caminho absoluto para a pasta do WordPress. */
 if ( ! defined( 'ABSPATH' ) ) {
 	define( 'ABSPATH', dirname( __FILE__ ) . '/' );
 }
-
 /** Define as variáveis do WordPress e ficheiros a incluir. */
 require_once( ABSPATH . 'wp-settings.php' );
